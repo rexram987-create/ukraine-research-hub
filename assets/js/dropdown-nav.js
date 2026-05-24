@@ -2,7 +2,7 @@
 (function(){
   const cities = [
     ["cities/kyiv.html","קייב","בירה, דניפרו וזהות מדינית"],
-    ["cities/lviv.html","לביב","תרבות גליציאנית ואדריכלות"],
+    ["cities/lviv.html","לבוב","תרבות גליציאנית ואדריכלות"],
     ["cities/odesa.html","אודסה","נמל, ים שחור וקהילות"],
     ["cities/kharkiv.html","חרקוב","תעשייה, מדע ומזרח אוקראינה"],
     ["cities/dnipro.html","דניפרו","נהר, תעשייה וחלל"],
